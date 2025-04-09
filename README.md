@@ -1,6 +1,3 @@
-Sure! Here's the README for the **Parellex** website in English, along with explanations using emojis.
-
----
 
 # Parellex Website README 📄
 
@@ -21,18 +18,9 @@ If you'd like to set up a local version of this website, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/username/parellex-website.git
+   git clone https://github.com/SujeetKrSah009/Parallex.git
    ```
 
-2. **Install Dependencies**:
-   ```bash
-   npm install
-   ```
-
-3. **Run the Website**:
-   ```bash
-   npm start
-   ```
 
 Now you can view the Parellex website on your local server! 🎉
 
